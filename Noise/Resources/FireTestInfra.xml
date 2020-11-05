@@ -1,0 +1,27 @@
+<FireTestNoiseInputData>
+  <Thrust>136035</Thrust>
+  <FlowParameters MassFlow="51,6596" NozzleDiameter="0,38285" NozzleMachNumber="3,0524" NozzleFlowVelocity="2764,28" ChamberSoundVelocity="1113" NozzleAdiabaticIndex="1,1954" />
+  <WeatherParameters>
+    <Январь Humidity="83" Temperature="263,7" />
+    <Февраль Humidity="82" Temperature="266,9" />
+    <Март Humidity="76" Temperature="270,7" />
+    <Апрель Humidity="68" Temperature="278,8" />
+    <Май Humidity="59" Temperature="287" />
+    <Июнь Humidity="65" Temperature="289,1" />
+    <Июль Humidity="71" Temperature="291,9" />
+    <Август Humidity="70" Temperature="291,2" />
+    <Сентябрь Humidity="78" Temperature="284,8" />
+    <Октябрь Humidity="80" Temperature="276,6" />
+    <Ноябрь Humidity="84" Temperature="270,4" />
+    <Декабрь Humidity="87" Temperature="268" />
+  </WeatherParameters>
+  <SoundLevels>
+    <SoundLevel A="255" R="255" G="0" B="0">90</SoundLevel>
+    <SoundLevel A="255" R="255" G="128" B="0">80</SoundLevel>
+    <SoundLevel A="255" R="0" G="128" B="0">75</SoundLevel>
+    <SoundLevel A="255" R="0" G="255" B="255">70</SoundLevel>
+    <SoundLevel A="255" R="0" G="0" B="255">65</SoundLevel>
+  </SoundLevels>
+  <RadiusInterval Initial="1" Final="2500" Step="1" />
+  <FrequencyBand>Infra</FrequencyBand>
+</FireTestNoiseInputData>
